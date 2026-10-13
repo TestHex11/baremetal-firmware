@@ -1,0 +1,2 @@
+﻿# Configure owners after the GitHub organization and teams are created.
+# CODEOWNERS alone does not enforce separate L1 and L2 approvals.
